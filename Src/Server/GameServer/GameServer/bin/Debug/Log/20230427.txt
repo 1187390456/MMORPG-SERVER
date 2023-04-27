@@ -1,0 +1,21 @@
+
+2023-04-27 16:47:10,497 [1] [INFO ] [GameServer] ：Game Server Init
+2023-04-27 16:47:10,571 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2023-04-27 16:47:10,717 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2023-04-27 16:47:10,719 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2023-04-27 16:47:10,719 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:落日森林
+2023-04-27 16:47:10,720 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日余辉
+2023-04-27 16:47:11,083 [1] [WARN ] [GameServer] ：Starting Listener...
+2023-04-27 16:47:11,124 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-04-27 16:47:11,125 [21] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-04-27 16:47:11,125 [18] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-04-27 16:47:11,125 [19] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-04-27 16:47:11,126 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-04-27 16:47:11,127 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-04-27 16:47:11,129 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-04-27 16:47:11,134 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-04-27 16:47:11,197 [1] [WARN ] [GameServer] ：NetService Started
+2023-04-27 16:47:34,599 [4] [WARN ] [GameServer] ：Client[127.0.0.1:55551]] Connected
+2023-04-27 16:47:34,642 [4] [WARN ] [GameServer] ：Client[] DataReceived Len:16
+2023-04-27 16:47:34,728 [9] [INFO ] [GameServer] ：Recv_Login: User:66 Pass:66 
+2023-04-27 16:47:36,129 [20] [WARN ] [GameServer] ：Client[] Disconnected
